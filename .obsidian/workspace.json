@@ -11,10 +11,14 @@
             "id": "0ae3bb8492490c31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "My CompScience Note/MD (MarkDown) Formatting.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MD (MarkDown) Formatting"
             }
           }
         ]
@@ -163,13 +167,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "5a754721ef9c0dfa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +193,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31e1272daa0ac372",
+  "active": "0ae3bb8492490c31",
   "lastOpenFiles": [
+    "Hello.md",
+    "My CompScience Note/MD (MarkDown) Formatting.md",
     "create a link.md",
     "Welcome.md",
     "My Life Note",
